@@ -1,0 +1,44 @@
+make json proper
+-> how to access keys in json without .keys
+learn
+
+>option to sote site in popup with keys as tag
+
+>store
+
+>access all  tag and show
+
+>acess sites of tag and show
+
+>scroll
+
+>text wrapping
+
+
+> Add retrieve
+
+
+> Add delete option
+
+
+
+
+  // "options_page": "popup.html",
+
+  // "page_action" : {
+	// "default_popup" : "popup.html",
+
+	// "default_icon" : {
+	// "16" : "images/get_started16.png",
+	// "32" : "images/get_started32.png",
+	// "48" : "images/get_started48.png",
+	// "128" : "images/get_started128.png"
+	//   }
+	// },
+
+	//========================================================================================\
+
+	clear all	tag   fucn done       <<<<button needed
+	clear tag			
+		clear tag entry					<<<<button needed
+		

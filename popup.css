@@ -1,0 +1,109 @@
+html{
+    background-color: rgb(139, 132, 132,0.15);
+}
+#url{
+    width: 170px;
+    height: 20px;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 8px;
+}
+#tag{
+    width: 170px;
+    height: 20px;
+    margin: auto;
+    padding: auto;
+    margin-bottom: 8px;
+}
+span{
+    display: flex;
+    align-content: space-between;
+}
+button{
+    margin: auto;
+    padding: auto;
+    border-top:0px;
+    border-bottom:0px;
+    border-left:0px;
+    border-right:0px;
+    width:3rem;
+    height:2rem;
+    color: white;
+    border-radius: 5px;
+    font-size: 0.9rem;
+
+}
+#save{
+    margin-right: 10px;
+    background-color: rgb(24, 184, 24);
+}
+#tag_text{
+    color: grey;
+}
+#clear{
+    margin-left: 10px;
+    background-color: rgb(221, 33, 33);
+
+}
+input{
+    border: 0px 0px 0px 0px ;
+    /* border-radius: 5px; */
+}
+input[type=text]:focus, textarea:focus {
+    /* box-shadow: 0 0 5px rgba(81, 203, 238, 1); */
+    /* padding: 3px 0px 3px 3px;
+    margin: 5px 1px 3px 0px; */
+    border: 1px solid rgba(81, 203, 238, 1);
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .Highlight{
+    border-color:rgb(24, 158, 219);
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* input:focus {
+    outline:none;
+} */
