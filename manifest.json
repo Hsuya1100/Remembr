@@ -1,7 +1,7 @@
 {
-  "name": "Getting Started Example",
+  "name": "Remembr",
   "version": "1.0",
-	"description": "Build an Extension!",
+	"description": "don't repeat just memorise ! ",
 	"browser_action": {
 		"default_icon": "images/logoR.png",
 		"default_popup": "popup/popup.html"
