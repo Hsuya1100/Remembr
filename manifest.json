@@ -1,0 +1,22 @@
+{
+  "name": "Getting Started Example",
+  "version": "1.0",
+	"description": "Build an Extension!",
+	"browser_action": {
+		"default_icon": "images/logoR.png",
+		"default_popup": "popup/popup.html"
+	},
+	"chrome_url_overrides" :{
+			"newtab" : "newtab/newtab.html"
+	},
+	"permissions" : ["tabs","activeTab","declarativeContent","storage"],
+
+	"icons": {
+	   "16": "images/logoR.png",
+	  "32": "images/logoR.png",
+	  "48": "images/logoR.png",
+	  "128": "images/logoR.png"
+	},
+
+  "manifest_version": 2
+}
