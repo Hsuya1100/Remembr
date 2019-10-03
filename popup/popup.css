@@ -1,14 +1,14 @@
 html{
     background-color: rgb(139, 132, 132,0.15);
 }
-#url{
+#tag{
     width: 170px;
     height: 20px;
     margin: auto;
     padding: auto;
     margin-bottom: 8px;
 }
-#tag{
+#url{
     width: 170px;
     height: 20px;
     margin: auto;
@@ -19,6 +19,25 @@ span{
     display: flex;
     align-content: space-between;
 }
+
+#save{
+    margin-right: 10px;
+    background-color: rgb(24, 187, 24);
+}
+#tag_text{
+    color: grey;
+}
+#clear{
+    margin-left: 10px;
+    background-color: rgb(221, 33, 33);
+
+}
+input{
+    border: 0px 0px 0px 0px ;
+}
+input[type=text]:focus, textarea:focus {
+    border: 1px solid rgba(81, 203, 248, 1);
+  }
 button{
     margin: auto;
     padding: auto;
@@ -33,22 +52,3 @@ button{
     font-size: 0.9rem;
 
 }
-#save{
-    margin-right: 10px;
-    background-color: rgb(24, 184, 24);
-}
-#tag_text{
-    color: grey;
-}
-#clear{
-    margin-left: 10px;
-    background-color: rgb(221, 33, 33);
-
-}
-input{
-    border: 0px 0px 0px 0px ;
-    /* border-radius: 5px; */
-}
-input[type=text]:focus, textarea:focus {
-    border: 1px solid rgba(81, 203, 238, 1);
-  }
